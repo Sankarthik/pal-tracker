@@ -31,6 +31,7 @@ dependencies {
 
 bootRun.environment([
         "WELCOME_MESSAGE": "hello",
+        "SERVICE_INSTANCE_NAME": "tracker-database"
 ])
 
 test.environment([
