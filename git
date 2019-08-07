@@ -1,0 +1,22 @@
+* [33m27c8364[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m Add tests for MVC lab
+* [33m0663d58[m[33m ([m[1;31morigin/master[m[33m)[m Deployment Pipeline Test
+* [33m6863919[m Deployment Pipeline Test
+* [33m08a8cb8[m Add deployment pipeline
+* [33m8a7c78d[m Config An App with environment vars
+* [33m92676f4[m Add tests for deployment lab
+* [33mf294978[m Hello Task Spring Boot App
+[31m|[m * [33mb340a5c[m[33m ([m[1;33mtag: actuator-solution[m[33m, [m[1;31morigin/solution[m[33m)[m Add actuator endpoints
+[31m|[m * [33m9811e5c[m[33m ([m[1;33mtag: actuator-start[m[33m)[m Add tests for Actuator lab
+[31m|[m * [33m3e66886[m[33m ([m[1;33mtag: jdbc-solution[m[33m)[m Persist time entries in database
+[31m|[m * [33me85554f[m[33m ([m[1;33mtag: jdbc-start[m[33m)[m Add tests for JDBC lab
+[31m|[m * [33me61afd4[m[33m ([m[1;33mtag: migration-solution[m[33m)[m Add migrations and pipeline changes
+[31m|[m * [33md921f90[m[33m ([m[1;33mtag: migration-start[m[33m)[m Add task for migrating databases
+[31m|[m * [33mb084c49[m[33m ([m[1;33mtag: mvc-solution[m[33m)[m Add TimeEntry MVC in memory
+[31m|[m * [33me7fc297[m[33m ([m[1;33mtag: mvc-start[m[33m)[m Add tests for MVC lab
+[31m|[m * [33m1cdc689[m[33m ([m[1;33mtag: pipeline-solution[m[33m)[m Update route
+[31m|[m * [33m5c80684[m[33m ([m[1;33mtag: pipeline-start[m[33m)[m Add deployment pipeline
+[31m|[m * [33m9b5f073[m[33m ([m[1;33mtag: deployment-solution[m[33m)[m Add manifest file for deployment to PCF
+[31m|[m * [33m9527734[m[33m ([m[1;33mtag: deployment-start[m[33m)[m Add tests for deployment lab
+[31m|[m * [33m1a6e41b[m[33m ([m[1;33mtag: spring-boot-solution[m[33m)[m Simple Spring Boot app
+[31m|[m[31m/[m  
+* [33m59a00bb[m[33m ([m[1;33mtag: spring-boot-start[m[33m)[m Initial commit
